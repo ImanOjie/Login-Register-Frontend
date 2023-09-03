@@ -73,7 +73,7 @@ button.ghost {
 }
 
 form {
-	background-color: gray;
+	background-color:gray;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -84,10 +84,11 @@ form {
 }
 
 input {
+    border-radius: 10px;
 	background-color: #eee;
 	border: none;
 	padding: 12px 15px;
-	margin: 8px 0;
+	margin: 8px 0px 20px 0px;
 	width: 100%;
 }
 
